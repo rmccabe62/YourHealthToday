@@ -1,0 +1,6 @@
+[submodule "AppData/Local/.acquia/rmccabe62"]
+	path = AppData/Local/.acquia/rmccabe62
+	url = https://github.com/rmccabe62/rmccabe62.github.io
+[submodule "AppData/Local/.acquia/rmccabe62.github.io"]
+	path = AppData/Local/.acquia/rmccabe62.github.io
+	url = https://github.com/rmccabe62/rmccabe62.github.io
