@@ -1,0 +1,73 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('computer_lab.jpg');
+
+}
+
+/* Center the content */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+
+}
+
+.custom-h1 {
+  color: #007bff;
+  /* Blue */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+}
+
+.custom-h3 {
+  color: #28a745;
+  /* Green */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+}
+
+h5 {
+  margin-top: 1rem;
+}
+
+/* Input fields */
+.MuiFormControl-root {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* Buttons */
+.MuiButton-contained {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  background-color: #007bff;
+  /* Blue */
+  color: #fff;
+}
+
+.MuiButton-contained:hover {
+  background-color: #0056b3;
+  /* Darker Blue */
+}
+
+.MuiButton-containedSecondary {
+  background-color: #28a745;
+  /* Green */
+  color: #fff;
+}
+
+.MuiButton-containedSecondary:hover {
+  background-color: #1b832a;
+  /* Darker Green */
+}
