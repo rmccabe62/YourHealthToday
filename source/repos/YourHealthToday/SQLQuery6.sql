@@ -1,0 +1,1 @@
+﻿INSERT INTO dbo.AspNetUsers (Id, Email, EmailConfirmed, PasswordHash) VALUES ('0', 'rmccabe1023@gmail.com','rmccabe1023@gmail.com', 'Code1023!')
