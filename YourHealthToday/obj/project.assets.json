@@ -11788,11 +11788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmcca\\source\\repos\\YourHealthToday\\YourHealthToday\\YourHealthToday.csproj",
+      "projectUniqueName": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\YourHealthToday.csproj",
       "projectName": "YourHealthToday",
-      "projectPath": "C:\\Users\\rmcca\\source\\repos\\YourHealthToday\\YourHealthToday\\YourHealthToday.csproj",
+      "projectPath": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\YourHealthToday.csproj",
       "packagesPath": "C:\\Users\\rmcca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rmcca\\source\\repos\\YourHealthToday\\YourHealthToday\\obj\\",
+      "outputPath": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
