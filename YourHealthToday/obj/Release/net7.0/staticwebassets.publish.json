@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ykasVio6odgfP9xzkJ9pV/nD2TQ5hrm32iBZqmLCKtc=",
+  "Hash": "fe+YuxL1zbvEZ7x2OWgOdkn64lIbN2CiXAToe+BQEEU=",
   "Source": "YourHealthToday",
   "BasePath": "_content/YourHealthToday",
   "Mode": "Default",
@@ -1139,6 +1139,40 @@
       "OriginalItemSpec": "wwwroot\\images\\gym.jpg"
     },
     {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\gym2.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/gym2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gym2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\health_tip2.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/health_tip2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\health_tip2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\health_tips.jpg",
       "SourceId": "YourHealthToday",
       "SourceType": "Discovered",
@@ -1207,6 +1241,23 @@
       "OriginalItemSpec": "wwwroot\\images\\pharmacy.jpg"
     },
     {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\pharmacy2.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/pharmacy2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharmacy2.jpg"
+    },
+    {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\physician.jpg",
       "SourceId": "YourHealthToday",
       "SourceType": "Discovered",
@@ -1239,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\physician_group.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\physician2.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/physician2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\physician2.jpg"
     },
     {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\js\\site.js",

@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\images\\gym.jpg"
     },
     {
+      "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\gym2.jpg",
+      "PackagePath": "staticwebassets\\images\\gym2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\health_tip2.jpg",
+      "PackagePath": "staticwebassets\\images\\health_tip2.jpg"
+    },
+    {
       "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\health_tips.jpg",
       "PackagePath": "staticwebassets\\images\\health_tips.jpg"
     },
@@ -37,8 +45,16 @@
       "PackagePath": "staticwebassets\\images\\pharmacy.jpg"
     },
     {
+      "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\pharmacy2.jpg",
+      "PackagePath": "staticwebassets\\images\\pharmacy2.jpg"
+    },
+    {
       "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\physician.jpg",
       "PackagePath": "staticwebassets\\images\\physician.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\physician2.jpg",
+      "PackagePath": "staticwebassets\\images\\physician2.jpg"
     },
     {
       "Id": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\physician_group.jpg",
