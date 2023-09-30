@@ -2,7 +2,7 @@ html {
     font-size: 14px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
     html {
         font-size: 16px;
     }
@@ -17,19 +17,29 @@ h1 {
     margin-top: 75px;
     font-weight: bolder;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #483d8b;
+    color: #ffffff;
+    background-image: url(../images/h1_bg_img.jpg);
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    
 }
 
 h3 {
     font-weight: 400;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #0000ff;
+    color: #000000;
+    
 }
 
 h4 {
     font-weight: 300;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #c71585;
+    background-color: #87CEEB;
+    margin-left: 450px;
+    margin-right: 400px;
+    
 }
 
 
@@ -95,14 +105,32 @@ img {
     width: 33%;
 }
 
+
 .navbar-nav .nav-link {
     color: white !important;
     font-size: 1em;
 }
 
+.normal-link {
+    font-size: inherit;
+    text-decoration: underline;
+    color: inherit;
+}
+
+.register-page h1,
+.login-page h1 {
+    background-image: url(/images/h1_bg_img.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
 p {
     text-align: center;
     font-size: 1.25em;
+    font-weight: bold;
     color: #6918b1;
 }
 

@@ -2,16 +2,16 @@
 @model LoginModel
 
 @{
-    ViewData["Title"] = "Log in";
+    ViewData["Title"] = "Please Login Here To Use This Site";
 }
 
 <h1>@ViewData["Title"]</h1>
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 mx-auto">
         <section>
             <form id="account" method="post">
-                <h2>Use a local account to log in.</h2>
-                <hr />
+               
+                <br /><br /><br />
                 <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
                 <div class="form-floating mb-3">
                     <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
@@ -48,19 +48,17 @@
     </div>
     <div class="col-md-6 col-md-offset-2">
         <section>
-            <h3>Your login page</h3>
+            
             <hr />
             @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                        <p>
-                           Please log in here to access this application.
-                        </p>
-                    </div>
-                }
-                else
-                {
+                <div class="text-center">
+                    <p>
+                        <img src="~/images/login_page_img.jpg" alt="login">
+                    </p>
+                        
+                    
+                </div>
+                
                     <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
                         <div>
                             <p>
@@ -71,8 +69,9 @@
                             </p>
                         </div>
                     </form>
+                
                 }
-            }
+            
         </section>
     </div>
 </div>

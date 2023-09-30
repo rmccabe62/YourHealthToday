@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fe+YuxL1zbvEZ7x2OWgOdkn64lIbN2CiXAToe+BQEEU=",
+  "Hash": "xRaeJH8DXkxWry5MoczJFh0Tu3A6GV++eJ7d1n+Nm/g=",
   "Source": "YourHealthToday",
   "BasePath": "_content/YourHealthToday",
   "Mode": "Default",
@@ -1156,6 +1156,23 @@
       "OriginalItemSpec": "wwwroot\\images\\gym2.jpg"
     },
     {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\h1_bg_img.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/h1_bg_img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\h1_bg_img.jpg"
+    },
+    {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\health_tip2.jpg",
       "SourceId": "YourHealthToday",
       "SourceType": "Discovered",
@@ -1205,6 +1222,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\healthy_food.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\login_page_img.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/login_page_img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_page_img.jpg"
     },
     {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\medical_bg.jpg",
@@ -1307,6 +1341,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\physician2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\images\\register_page_img.jpg",
+      "SourceId": "YourHealthToday",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\",
+      "BasePath": "_content/YourHealthToday",
+      "RelativePath": "images/register_page_img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\register_page_img.jpg"
     },
     {
       "Identity": "C:\\Users\\rmcca\\OneDrive\\Documents\\GitHub\\YourHealthToday\\YourHealthToday\\wwwroot\\js\\site.js",
