@@ -6,6 +6,10 @@ C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Rel
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\YourHealthToday.pdb
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Azure.Identity.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Habanero.BO.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Habanero.Base.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Habanero.Console.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Habanero.DB.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Humanizer.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -83,6 +87,8 @@ C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Rel
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\System.Security.Permissions.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\xunit.abstractions.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\xunit.core.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\af\Humanizer.resources.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\ar\Humanizer.resources.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\PubTmp\Out\az\Humanizer.resources.dll

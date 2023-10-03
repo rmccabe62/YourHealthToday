@@ -261,3 +261,9 @@ C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Rel
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\YourHealthToday.pdb
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\YourHealthToday.genruntimeconfig.cache
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\obj\Release\net7.0\ref\YourHealthToday.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\xunit.abstractions.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\xunit.core.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\Habanero.BO.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\Habanero.Base.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\Habanero.Console.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Release\net7.0\Habanero.DB.dll

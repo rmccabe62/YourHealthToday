@@ -1,13 +1,22 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using YourHealthToday.Models;
+using Microsoft.Extensions.Logging;
 
 namespace YourHealthToday.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly UserManager<IdentityUser> _userManager;
         private readonly ILogger<HomeController> _logger;
+
+        public HomeController(UserManager<IdentityUser> userManager, ILogger<HomeController> logger)
+        {
+            _userManager = userManager;
+            _logger = logger;
+        }
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -40,11 +49,12 @@ namespace YourHealthToday.Controllers
         [AllowAnonymous]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult ForgotPassword(ForgotPasswordViewModel model)
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordViewModel model)
         {
             if (ModelState.IsValid)
             {
-            
+                var user = await _userManager.FindByEmailAsync(model.Email);
+                
                 return RedirectToAction("ForgotPasswordConfirmation");
             }
             else
