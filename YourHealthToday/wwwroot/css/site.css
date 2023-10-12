@@ -4,13 +4,14 @@ html {
 
 /* Media query for larger screens */
 @media screen and (max-width: 768px) {
-    h1.display-4 {
-        font-size: 1.5rem; /* Adjust font size for smaller screens */
+    /* Adjust font size and styles for h1, h3, and h4 on smaller screens */
+    h1.display-4, h3, h4 {
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 0.5rem auto; /* Add margin to prevent stacking */
     }
-
-    h3, h4 {
-        font-size: 1.5rem; /* Adjust font size for smaller screens */
-        display: inline-block;
+    .text-center {
+        text-align: center;
     }
 }
 
@@ -48,8 +49,8 @@ h4 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #c71585;
     background-color: #87CEEB;
-    margin-left: 450px;
-    margin-right: 400px;
+    margin-left: 300px;
+    margin-right: 350px;
     text-align: center;
     margin-bottom: 1rem;
     font-size: 1.5rem;
@@ -79,6 +80,7 @@ footer {
 h1.display-4 {
     font-size: 2.5rem; /* Adjust the font size */
     margin-bottom: 1rem; /* Add some space between h1 and h3 */
+    display: inline-block;
 }
 
 .img-container {
@@ -134,6 +136,7 @@ img {
     font-size: inherit;
     text-decoration: underline;
     color: inherit;
+    font-size: 1.5rem;
 }
 
 .register-page h1,
@@ -153,9 +156,7 @@ p {
     color: #6918b1;
 }
 
-.text-center {
-    text-align: center;
-}
+
 
 .title-container {
     display: flex;
