@@ -348,6 +348,8 @@ C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Deb
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\System.Security.Permissions.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\xunit.core.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\af\Humanizer.resources.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\ar\Humanizer.resources.dll
 C:\Users\rmcca\OneDrive\Documents\GitHub\YourHealthToday\YourHealthToday\bin\Debug\net7.0\az\Humanizer.resources.dll
