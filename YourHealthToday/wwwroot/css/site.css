@@ -2,14 +2,26 @@ html {
     font-size: 14px;
 }
 
-/* Media query for larger screens */
+/* Media query for smaller screens */
 @media screen and (max-width: 768px) {
     /* Adjust font size and styles for h1, h3, and h4 on smaller screens */
     h1.display-4, h3, h4 {
         font-size: 1.5rem;
         text-align: center;
-        margin: 0.5rem auto; /* Add margin to prevent stacking */
+        margin: 1rem auto;
+        
     }
+
+    /* Target h1 on Health Access and Health Info pages */
+    .ha h1, .hi h1 {
+        background-image: url(../images/h1_bg_img.jpg);
+        background-size: cover;
+        background-position: center;
+        margin-left: 250px;
+        margin-right: 250px;
+        text-align: center;
+    }
+    
     .text-center {
         text-align: center;
     }
@@ -26,6 +38,8 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #ffffff;
     background-image: url(../images/h1_bg_img.jpg);
+    background-size: cover;
+    background-position: center;
     margin-left: 250px;
     margin-right: 250px;
     text-align: center;
@@ -48,9 +62,8 @@ h4 {
     font-weight: 300;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #c71585;
-    background-color: #87CEEB;
-    margin-left: 300px;
-    margin-right: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-align: center;
     margin-bottom: 1rem;
     font-size: 1.5rem;
@@ -105,6 +118,8 @@ img {
     width: 33%
 }
 
+
+
 .ha.img {
     flex: 0 0 200px;
 }
@@ -125,6 +140,8 @@ img {
     text-align: center;
     width: 33%;
 }
+
+
 
 
 .navbar-nav .nav-link {
